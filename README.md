@@ -1,7 +1,7 @@
 # SIM-OS: Integrated Operating System Resource Management Simulator
 
-**Student Name:** Varun Chauhan  
-**Roll Number:** 2401010276  
+**Student Name:** Jony Gautam 
+**Roll Number:** 2401010032
 **Course:** B.Tech Computer Science and Engineering (Sec B)  
 **Academic Subject:** Operating Systems Laboratory – Capstone Project (100 Marks)  
 
