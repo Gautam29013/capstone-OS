@@ -3,8 +3,8 @@
 
 **Course:** B.Tech Computer Science and Engineering (Section B)  
 **Subject:** Operating Systems Laboratory Capstone  
-**Student Name:** Varun Chauhan  
-**Roll Number:** 2401010276  
+**Student Name:** Jony Gautam  
+**Roll Number:** 2401010032  
 **Academic Term:** 2026-2027  
 **Evaluation Weight:** 100 Marks  
 

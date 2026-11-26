@@ -2,7 +2,7 @@
 # ==============================================================================
 # OS Simulator - Master Integrated Launcher & CLI Entrypoint
 # Powered by uv / Python 3
-# Student: Varun Chauhan (Roll No: 2401010276)
+# Student: Jony Gautam (Roll No: 2401010032)
 # ==============================================================================
 
 set -euo pipefail
@@ -33,7 +33,7 @@ fi
 show_help() {
     cat << EOF
 ${BOLD}SIM-OS: Integrated OS Resource Management Simulator${RESET}
-Managed via ${CYAN}uv${RESET} | Developed by Varun Chauhan (2401010276)
+Managed via ${CYAN}uv${RESET} | Developed by Jony Gautam (2401010032)
 
 ${BOLD}USAGE:${RESET}
     ./run.sh [OPTIONS]
